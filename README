@@ -1,5 +1,9 @@
-HOW TO USE BANDCAMP-DOWNLOADER
-==============================
+FIRST OF ALL:
+=============
+http://bandcamp.com/faq#steal
+
+HOW TO USE BANDCAMP-DOWNLOADER:
+===============================
 In order to download an album from bandcamp, the bandcamp_downloader.rb file needs only 1 parameter - a JSON file.
 use it like so
 
@@ -14,12 +18,6 @@ Instructions:
    "JSON.stringify(TralbumData)"
 5. Copy the output you got from the console, and paste it into a file
 6. Save the above file with a .json extension
-
-Requirements:
-=============
-gem install taglib-ruby
-gem install yajl-ruby
-gem install trollop
 
 TO DO:
 ======
